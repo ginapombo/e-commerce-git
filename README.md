@@ -1,1 +1,2 @@
-# ecommerce-capacitador
+# ecommerce-git
+Con Línea de Comandos
